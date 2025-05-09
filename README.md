@@ -1,5 +1,5 @@
 # JAVA_JOB_PORTAL
-# Job Portal Application using Java Swing and SQL
+Job Portal Application using Java Swing and SQL
 
 ## Overview
 This project is a job portal application built with Java Swing for the frontend GUI and SQL for the backend database operations. The application allows users to register, search for jobs, apply for positions, and manage their profiles. It includes administrative functionalities for job management and user administration.
